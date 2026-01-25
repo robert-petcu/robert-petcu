@@ -5,7 +5,7 @@ I’m passionate about algorithms and enjoy taking part in competitive programmi
 ## Education
 - 2019 - Present: "Grigore Moisil" High School Tulcea
 
-## Rezultate notabile
+## Notable Achievements
 
 ### **2025**
 - 1st Place – County Informatics Olympiad
