@@ -1,24 +1,27 @@
-## Despre mine
+## About me
 
-Sunt pasionat de algoritmică și îmi place să particip la concursuri de programare competitivă, precum **Olimpiada Națională de Informatică** și **Olimpiada Națională de Informatică Aplicată AcadNet**. Îmi place să rezolv probleme complexe și să învăț despre teoria informaticii.
+I’m passionate about algorithms and enjoy taking part in competitive programming contests such as the **National Informatics Olympiad** and the **AcadNet Applied Informatics National Olympiad**. I love tackling challenging problems and deepening my understanding of computer science theory.
 
-## Studii
-- 2019 - Prezent: Liceul Teoretic "Grigore Moisil" Tulcea
+## Education
+- 2019 - Present: "Grigore Moisil" High School Tulcea
 
 ## Rezultate notabile
 
 ### **2025**
-- Locul 1 Olimpiada Județeană de Informatică
-- Locul 1 Olimpiada Județeană de Informatică Aplicată
-- Calificare la Olimpiada Națională de Informatică Aplicată
-- Locul 15 la Olimpiada Națională de Informatică Aplicată
+- 1st Place – County Informatics Olympiad
+- 1st Place – County Applied Informatics Olympiad
+- Qualified for the National Applied Informatics Olympiad
+- 15th Place – National Applied Informatics Olympiad
+
 ### **2024**
-- Locul 1 Olimpiada Județeană de Informatică
-- Locul 1 Olimpiada Județeană de Informatică Aplicată
-- Calificare la Olimpiada Națională de Informatică
-- Calificare la Olimpiada Națională de Informatică Aplicată
+- 1st Place – County Informatics Olympiad
+- 1st Place – County Applied Informatics Olympiad
+- Qualified for the National Informatics Olympiad
+- Qualified for the National Applied Informatics Olympiad
+
 ### **2023**
-- Locul 1 Olimpiada Județeană de Informatică
+- 1st Place – County Informatics Olympiad
+
 ### **2022**
-- Locul 1 Olimpiada Județeană de Informatică
-- Calificare la Olimpiada Națională de Informatică
+- 1st Place – County Informatics Olympiad
+- Qualified for the National Informatics Olympiad
