@@ -4,24 +4,3 @@ I’m passionate about algorithms and enjoy taking part in competitive programmi
 
 ## Education
 - 2019 - Present: "Grigore Moisil" High School Tulcea
-
-## Notable Achievements
-
-### **2025**
-- 1st Place – County Informatics Olympiad
-- 1st Place – County Applied Informatics Olympiad
-- Qualified for the National Applied Informatics Olympiad
-- 15th Place – National Applied Informatics Olympiad
-
-### **2024**
-- 1st Place – County Informatics Olympiad
-- 1st Place – County Applied Informatics Olympiad
-- Qualified for the National Informatics Olympiad
-- Qualified for the National Applied Informatics Olympiad
-
-### **2023**
-- 1st Place – County Informatics Olympiad
-
-### **2022**
-- 1st Place – County Informatics Olympiad
-- Qualified for the National Informatics Olympiad
