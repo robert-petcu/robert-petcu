@@ -7,7 +7,7 @@ I’m passionate about algorithms and enjoy taking part in competitive programmi
 
 ## Awards
 - 15th place National Romanian Olympiad in Applied Informatics (2025)
-- 1st place Regional Romanian Olympiad in Informatics × 4 (2022 - 2025)
+- 1st place Regional Romanian Olympiad in Informatics × 5 (2022 - 2026)
 - 1st place Regional Romanian Olympiad in Applied Informatics × 2 (2024 - 2025)
 
 
