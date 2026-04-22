@@ -1,15 +1,30 @@
-## About me
 
-I’m passionate about algorithms and enjoy taking part in competitive programming contests such as the **National Olympiad in Informatics** and the **National Olympiad in Applied Informatics**. I love tackling challenging problems and deepening my understanding of computer science theory.
+# Robert Petcu
+**Competitive Programmer | Aspiring Software Engineer**
 
-## Education
-- 2019 - Present: “Grigore Moisil” Theoretical High School Tulcea
+Methodical problem-solver focused on the refinement of logic structures and the practical application of computer science theory.
 
-## Awards
-- 15th place National Romanian Olympiad in Applied Informatics (2025)
-- 1st place Regional Romanian Olympiad in Informatics × 5 (2022 - 2026)
-- 1st place Regional Romanian Olympiad in Applied Informatics × 2 (2024 - 2025)
+---
+
+### Performance Record
+Consistent placement in competitive environments.
+
+| Competition | Result | Years |
+| :--- | :--- | :--- |
+| **Regional Olympiad in Informatics** | 1st Place (x5) | 2022 — 2026 |
+| **Regional Olympiad in Applied Informatics** | 1st Place (x2) | 2024 — 2025 |
+| **National Olympiad in Applied Informatics** | 15th Nationally | 2025 |
+
+---
 
 
+### Technical Focus
+* **Primary Stack:** C++, Java
+* **Specializations:** Algorithm Optimization, Data Structures, Logic Refinement
+* **Current Objectives:** 
+	* Enhancing competitive programming skills for national-level competition. 
+	* Bridging theoretical foundations with software development practices.
+ ---
 
-
+### Education
+* **Theoretical High School "Grigore Moisil" Tulcea** (2019 — Present)
