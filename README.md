@@ -13,6 +13,7 @@ Consistent placement in competitive environments.
 | :--- | :--- | :--- |
 | **Regional Olympiad in Informatics** | 1st Place (x5) | 2022 — 2026 |
 | **Regional Olympiad in Applied Informatics** | 1st Place (x2) | 2024 — 2025 |
+| **National Olympiad in Informatics** | 47th Nationally | 2026 |
 | **National Olympiad in Applied Informatics** | 15th Nationally | 2025 |
 
 ---
