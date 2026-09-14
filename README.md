@@ -44,6 +44,6 @@ Here are the technologies and tools I use in my projects:
 
 ### Education
 
-* **High School: Mathematics-Informatics** – "Grigore Moisil" Theoretical High School, Tulcea
+* **High School: Math & CS** – "Grigore Moisil" Theoretical High School, Tulcea
 
 ---
