@@ -7,7 +7,7 @@ Passionate about **Algorithmics**, **Competitive Programming**, and **Software E
 
 ### About me
 
-I am Robert Petcu, an 11th-grade student passionate about everything related to programming and algorithms. In recent years, I have dedicated a lot of time preparing for the **National Olympiad in Informatics**, a competition I have been participating in since the 7th grade.  
+I am Robert Petcu, an 12th-grade student passionate about everything related to programming and algorithms. In recent years, I have dedicated a lot of time preparing for the **National Olympiad in Informatics**, a competition I have been participating in since the 7th grade.  
 Beyond competitions, I like to experiment and turn ideas into functional projects. This space is where I document my achievements, the projects I work on, and the new things I learn along the way. I am always looking for new technical challenges and opportunities to put into practice what I learn.
 
 ---
