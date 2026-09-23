@@ -34,11 +34,11 @@ Here are the technologies and tools I use in my projects:
 ### Achievements & Competitions
 
 * **47th Place** – Romanian National Olympiad in Informatics
-* **15th Place** – Romanian National Applied Informatics Olympiad
+* **15th Place** – Romanian National Olympiad in Applied Informatics
 * **Qualified (3 times)** – Romanian National Olympiad in Informatics
-* **Qualified (2 times)** – Romanian National Applied Informatics Olympiad
-* **1st Place (5 times)** – Romanian County Olympiad in Informatics
-* **1st Place (2 times)** – Romanian County Applied Informatics Olympiad
+* **Qualified (2 times)** – Romanian National Olympiad in Applied Informatics 
+* **1st Place (5 times)** – Romanian Regional Olympiad in Informatics
+* **1st Place (2 times)** – Romanian Regional Olympiad in Applied Informatics
 
 ---
 
