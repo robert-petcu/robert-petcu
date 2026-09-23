@@ -7,7 +7,7 @@ Passionate about **Algorithmics**, **Competitive Programming**, and **Software E
 
 ### About me
 
-I am a high school student whose programming journey began in the fifth grade. I focus on breaking down complex problems, optimizing time and space complexity, and delivering elegant solutions to non-trivial algorithmic challenges.
+I am a 12th grade high school student whose programming journey began in the fifth grade. I focus on breaking down complex problems, optimizing time and space complexity, and delivering elegant solutions to non-trivial algorithmic challenges.
 * **Competitive Background:** Years of competing under strict time constraints have built my strong foundation in mathematical logic and advanced data structures.
 * **Software Engineering:** I directly translate algorithmic rigor into modern software engineering, ensuring every solution is built for both performance and clarity.
 ---
